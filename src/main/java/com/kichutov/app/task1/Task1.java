@@ -1,4 +1,4 @@
-package com.kichutov.app;
+package com.kichutov.app.task1;
 
 import static java.lang.Double.NEGATIVE_INFINITY;
 import static java.lang.Double.NaN;

@@ -1,10 +1,11 @@
-package com.kichutov.app;
+package com.kichutov.app.task1;
 
 
 import static java.lang.Double.NEGATIVE_INFINITY;
 import static java.lang.Double.NaN;
 import static java.lang.Double.POSITIVE_INFINITY;
 
+import com.kichutov.app.task1.Task1;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
